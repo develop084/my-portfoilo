@@ -4,4 +4,4 @@ Created Portfolio website using  HTML CSS  and ** Not Responsive** Best Viewed i
 
 you can check out the website 👇👇👇
 
-https://my-portfoilo.devloper007.repl.co/#about
+https://my-portfoilo.devloper007.repl.co/
